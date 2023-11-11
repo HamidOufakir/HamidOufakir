@@ -1,3 +1,8 @@
+<style>
+  a{
+      margin-right: 10px; /* Adjust the value to set the desired space */
+    }
+</style>
 <h1 align="center">Hi 👋, I'm Hamid Oufakir</h1>
 <h3 align="center">Computer science and Artificial Intelligence Student</h3>
 
