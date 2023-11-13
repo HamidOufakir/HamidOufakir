@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HamidOufakir&theme=radical" alt"HamidOufakir"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidOufakir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="HamidOufakir" />
 
+![GitHub Streak](https://github-readme-streak-stats-iota-five.vercel.app?user=HamidOufakir&theme=radical)
 
 </div>
 <br/><br/>
